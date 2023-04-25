@@ -1,3 +1,5 @@
 # noticiasCidade
 
-![Imagem em gif do site para treinar HTML e CSS](https://github.com/jana-dev/noticiasCidade/blob/master/imagens/noticiascidade.gif)
+## Projeto feito para praticar HTML e CSS puro
+
+- https://jana-dev.github.io/noticiasCidade/index.html
